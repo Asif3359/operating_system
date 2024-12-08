@@ -1,0 +1,4 @@
+Next Lab Topic: First Fit, Best Fit, Worst Fit
+Next Lab Topic: Bankers Algorithm 
+Priority Scheduling and Round Robin 
+Scheduling Algorithms—FCFS and SJF.
